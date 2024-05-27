@@ -1,0 +1,107 @@
+
+:bangbang: **Found issues** :bangbang: 
+
+
+| Project | Coverage Type |Expected | Actual | 
+| --- | :---: | ---: | ---: |
+| Microsoft.Extensions.ServiceDiscovery.Dns | Line | **100** | 50.74 :small_red_triangle_down: |
+| Microsoft.Extensions.ServiceDiscovery.Dns | Branch | **100** | 42.31 :small_red_triangle_down: |
+| Microsoft.Extensions.ServiceDiscovery | Line | **100** | 63.31 :small_red_triangle_down: |
+| Microsoft.Extensions.ServiceDiscovery | Branch | **100** | 54.81 :small_red_triangle_down: |
+| Microsoft.Extensions.ServiceDiscovery.Abstractions | Line | **100** | 70.86 :small_red_triangle_down: |
+| Microsoft.Extensions.ServiceDiscovery.Abstractions | Branch | **100** | 52.5 :small_red_triangle_down: |
+| Aspire.Hosting.Qdrant | Line | **100** | 58.11 :small_red_triangle_down: |
+| Aspire.Hosting.Qdrant | Branch | **100** | 33.33 :small_red_triangle_down: |
+| Aspire.Hosting.Nats | Line | **100** | 36.36 :small_red_triangle_down: |
+| Aspire.Hosting.Nats | Branch | **100** | 7.14 :small_red_triangle_down: |
+| Aspire.Hosting.MySql | Line | **100** | 72.95 :small_red_triangle_down: |
+| Aspire.Hosting.MySql | Branch | **100** | 47.83 :small_red_triangle_down: |
+| Aspire.Hosting.MongoDB | Line | **100** | 56.76 :small_red_triangle_down: |
+| Aspire.Hosting.MongoDB | Branch | **100** | 25 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.Storage | Line | **100** | 96.97 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.Sql | Line | **100** | 96.92 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.Redis | Line | **100** | 97.56 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.KeyVault | Line | **100** | 96.15 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.EventHubs | Line | **100** | 59.09 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.EventHubs | Branch | **100** | 14.29 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.CognitiveServices | Line | **100** | 95.95 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.ApplicationInsights | Line | **100** | 92.31 :small_red_triangle_down: |
+| Aspire.Hosting | Line | **100** | 68.38 :small_red_triangle_down: |
+| Aspire.Hosting | Branch | **100** | 55.62 :small_red_triangle_down: |
+| Aspire.Hosting.Testing | Line | **100** | 1.99 :small_red_triangle_down: |
+| Aspire.Hosting.Testing | Branch | **100** | 0 :small_red_triangle_down: |
+| Microsoft.Extensions.ServiceDiscovery.Yarp | Line | **100** | 73.44 :small_red_triangle_down: |
+| Microsoft.Extensions.ServiceDiscovery.Yarp | Branch | **100** | 72.73 :small_red_triangle_down: |
+| Aspire.Npgsql | Line | **100** | 93.53 :small_red_triangle_down: |
+| Aspire.MySqlConnector | Line | **100** | 83.95 :small_red_triangle_down: |
+| Aspire.MongoDB.Driver | Line | **100** | 86.89 :small_red_triangle_down: |
+| Aspire.Hosting.SqlServer | Line | **100** | 57.75 :small_red_triangle_down: |
+| Aspire.Hosting.SqlServer | Branch | **100** | 29.41 :small_red_triangle_down: |
+| Aspire.Dashboard | Line | **100** | 34.41 :small_red_triangle_down: |
+| Aspire.Dashboard | Branch | **100** | 27.24 :small_red_triangle_down: |
+| Aspire.Confluent.Kafka | Line | **100** | 90.29 :small_red_triangle_down: |
+| Aspire.Confluent.Kafka | Branch | **100** | 93.02 :small_red_triangle_down: |
+| Aspire.Azure.Storage.Queues | Line | **100** | 92.34 :small_red_triangle_down: |
+| Aspire.Azure.Storage.Queues | Branch | **100** | 94.44 :small_red_triangle_down: |
+| Aspire.Azure.Security.KeyVault | Line | **100** | 93.33 :small_red_triangle_down: |
+| Aspire.Azure.Security.KeyVault | Branch | **100** | 92.86 :small_red_triangle_down: |
+| Aspire.Azure.Storage.Blobs | Line | **100** | 92.28 :small_red_triangle_down: |
+| Aspire.Azure.Storage.Blobs | Branch | **100** | 94.44 :small_red_triangle_down: |
+| Aspire.Microsoft.EntityFrameworkCore.Cosmos | Line | **100** | 80.42 :small_red_triangle_down: |
+| Aspire.Microsoft.EntityFrameworkCore.Cosmos | Branch | **100** | 90 :small_red_triangle_down: |
+| Aspire.Microsoft.Azure.Cosmos | Line | **100** | 70.42 :small_red_triangle_down: |
+| Aspire.Microsoft.Azure.Cosmos | Branch | **100** | 88.89 :small_red_triangle_down: |
+| Aspire.Oracle.EntityFrameworkCore | Line | **100** | 89.22 :small_red_triangle_down: |
+| Aspire.Oracle.EntityFrameworkCore | Branch | **100** | 96.3 :small_red_triangle_down: |
+| Aspire.Microsoft.Data.SqlClient | Line | **100** | 60.69 :small_red_triangle_down: |
+| Aspire.Microsoft.Data.SqlClient | Branch | **100** | 50 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.SignalR | Line | **100** | 96.15 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.ServiceBus | Line | **100** | 94.03 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.ServiceBus | Branch | **100** | 75 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.AppConfiguration | Line | **100** | 95.83 :small_red_triangle_down: |
+| Aspire.Hosting.Azure | Line | **100** | 33.66 :small_red_triangle_down: |
+| Aspire.Hosting.Azure | Branch | **100** | 28.65 :small_red_triangle_down: |
+| Aspire.Hosting.AWS | Line | **100** | 22.13 :small_red_triangle_down: |
+| Aspire.Hosting.AWS | Branch | **100** | 3.74 :small_red_triangle_down: |
+| Aspire.Azure.Messaging.ServiceBus | Line | **100** | 93.93 :small_red_triangle_down: |
+| Aspire.Azure.Messaging.ServiceBus | Branch | **100** | 97.62 :small_red_triangle_down: |
+| Aspire.Azure.Data.Tables | Line | **100** | 93.9 :small_red_triangle_down: |
+| Aspire.Azure.Data.Tables | Branch | **100** | 95.83 :small_red_triangle_down: |
+| Aspire.Hosting.Redis | Line | **100** | 90.91 :small_red_triangle_down: |
+| Aspire.Hosting.RabbitMQ | Line | **100** | 67.74 :small_red_triangle_down: |
+| Aspire.Hosting.RabbitMQ | Branch | **100** | 59.38 :small_red_triangle_down: |
+| Aspire.Hosting.PostgreSQL | Line | **100** | 72.59 :small_red_triangle_down: |
+| Aspire.Hosting.PostgreSQL | Branch | **100** | 55.56 :small_red_triangle_down: |
+| Aspire.Hosting.Oracle | Line | **100** | 50 :small_red_triangle_down: |
+| Aspire.Hosting.Oracle | Branch | **100** | 20 :small_red_triangle_down: |
+| Aspire.Hosting.NodeJs | Line | **100** | 95.65 :small_red_triangle_down: |
+| Aspire.Hosting.Kafka | Line | **100** | 56.16 :small_red_triangle_down: |
+| Aspire.Hosting.Kafka | Branch | **100** | 25 :small_red_triangle_down: |
+| Aspire.Hosting.Garnet | Line | **100** | 92.11 :small_red_triangle_down: |
+| Aspire.Hosting.Dapr | Line | **100** | 74.15 :small_red_triangle_down: |
+| Aspire.Hosting.Dapr | Branch | **100** | 77.55 :small_red_triangle_down: |
+| Aspire.Hosting.Azure.CosmosDB | Line | **100** | 98.51 :small_red_triangle_down: |
+| Aspire.Azure.Search.Documents | Line | **100** | 87.23 :small_red_triangle_down: |
+| Aspire.Azure.Messaging.EventHubs | Line | **100** | 71.71 :small_red_triangle_down: |
+| Aspire.Azure.Messaging.EventHubs | Branch | **100** | 70.37 :small_red_triangle_down: |
+| Aspire.Azure.AI.OpenAI | Line | **100** | 70.21 :small_red_triangle_down: |
+| Aspire.Azure.AI.OpenAI | Branch | **100** | 83.33 :small_red_triangle_down: |
+| Aspire.Microsoft.EntityFrameworkCore.SqlServer | Line | **100** | 68.72 :small_red_triangle_down: |
+| Aspire.Microsoft.EntityFrameworkCore.SqlServer | Branch | **100** | 58.82 :small_red_triangle_down: |
+| Aspire.NATS.Net | Line | **100** | 75.27 :small_red_triangle_down: |
+| Aspire.NATS.Net | Branch | **100** | 92.31 :small_red_triangle_down: |
+| Aspire.Qdrant.Client | Line | **100** | 71.43 :small_red_triangle_down: |
+| Aspire.StackExchange.Redis.OutputCaching | Line | **100** | 66.67 :small_red_triangle_down: |
+| Aspire.StackExchange.Redis.DistributedCaching | Line | **100** | 66.67 :small_red_triangle_down: |
+| Aspire.StackExchange.Redis | Line | **100** | 64.3 :small_red_triangle_down: |
+| Aspire.StackExchange.Redis | Branch | **100** | 58.97 :small_red_triangle_down: |
+| Aspire.Seq | Line | **100** | 55.84 :small_red_triangle_down: |
+| Aspire.Seq | Branch | **100** | 66.67 :small_red_triangle_down: |
+| Aspire.Pomelo.EntityFrameworkCore.MySql | Line | **100** | 84.07 :small_red_triangle_down: |
+| Aspire.Pomelo.EntityFrameworkCore.MySql | Branch | **100** | 88.89 :small_red_triangle_down: |
+| Aspire.Npgsql.EntityFrameworkCore.PostgreSQL | Line | **100** | 93.82 :small_red_triangle_down: |
+| Aspire.RabbitMQ.Client | Line | **100** | 82.99 :small_red_triangle_down: |
+| Aspire.RabbitMQ.Client | Branch | **100** | 79.73 :small_red_triangle_down: |
+
+
+

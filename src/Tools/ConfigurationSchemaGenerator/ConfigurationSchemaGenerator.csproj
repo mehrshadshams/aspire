@@ -14,6 +14,10 @@
   </PropertyGroup>
 
   <PropertyGroup>
+    <MinCodeCoverage>0</MinCodeCoverage>
+  </PropertyGroup>
+
+  <PropertyGroup>
     <AddPublicApiAnalyzers>false</AddPublicApiAnalyzers>
   </PropertyGroup>
 

@@ -14,6 +14,10 @@
     <UsingToolTemplateLocalizer>true</UsingToolTemplateLocalizer>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <MinCodeCoverage>100</MinCodeCoverage>
+  </PropertyGroup>
+
   <ItemGroup>
     <None Include="templates\**\*" />
   </ItemGroup>
